@@ -1,7 +1,7 @@
 ![𝙼𝚢 𝚜𝚝𝚊𝚝𝚜](https://github-readme-stats.vercel.app/api?username=Ferius057&show_icons=true&count_private=true)
 
 
-### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ <img src="https://media.giphy.com/media/hhHcFH0xAduCs/giphy.gif" width="50">
+### 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 <img src="https://media.giphy.com/media/hhHcFH0xAduCs/giphy.gif" width="100">
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="codeSTACKr | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
@@ -20,5 +20,5 @@
 
 <br/>
 
-[telegram]: t.me/ferius_057
+[telegram]: https://t.me/ferius_057
 [vk]: https://vk.com/ferius_057
