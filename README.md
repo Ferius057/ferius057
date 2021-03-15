@@ -2,7 +2,7 @@
 [![𝙼𝚢 𝚜𝚝𝚊𝚝𝚜Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ferius057&layout=compact&theme=radical)](https://github.com/ferius057)
 
 
-### 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 [<img src="https://tenor.com/4Ei1.gif" width="100">](https://github.com/ferius057)
+### 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 [<img src="https://media1.tenor.com/images/c925511d32350cc04411756d623ebad6/tenor.gif" width="100">](https://github.com/ferius057)
 
 [<img align="left" alt="codeSTACKr | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
