@@ -1,4 +1,5 @@
-![𝙼𝚢 𝚜𝚝𝚊𝚝𝚜](https://github-readme-stats.vercel.app/api?username=Ferius057&show_icons=true&count_private=true)
+[![𝙼𝚢 𝚜𝚝𝚊𝚝𝚜](https://github-readme-stats.vercel.app/api?username=ferius057&show_icons=true&theme=radical)](https://github.com/ferius057)
+[![𝙼𝚢 𝚜𝚝𝚊𝚝𝚜Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ferius057&layout=compact&theme=radical)](https://github.com/ferius057)
 
 
 ### 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 <img src="https://media.giphy.com/media/hhHcFH0xAduCs/giphy.gif" width="100">
